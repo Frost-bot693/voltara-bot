@@ -1,0 +1,6 @@
+{
+  "host": "voltarasmp.mcsh.gg",
+  "port": 19132,
+  "username": "VoltaraBot",
+  "reconnectDelay": 10000
+}
